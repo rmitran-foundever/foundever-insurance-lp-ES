@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp-registry__search_mcp_registry",
+      "WebSearch",
+      "Bash(claude mcp:*)",
+      "WebFetch(domain:developers.figma.com)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(qlmanage -t -s 996 -o /tmp index.html)"
+    ]
+  }
+}
