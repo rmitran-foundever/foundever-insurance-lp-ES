@@ -786,7 +786,8 @@ h4 { font-size: 18px; font-weight: 600; line-height: 1.4; }
   font-size: 15px;
   font-weight: 300;
   line-height: 1.65;
-  max-width: 620px;
+  white-space: nowrap;
+  max-width: none;
   margin: 0 auto 48px;
 }
 
