@@ -506,7 +506,7 @@ h4 { font-size: 18px; font-weight: 600; line-height: 1.4; }
 }
 
 .solutions-header {
-  margin-bottom: 48px;
+  margin-bottom: 20px;
 }
 
 .solutions-header .eyebrow { margin-bottom: 12px; }
@@ -542,7 +542,7 @@ h4 { font-size: 18px; font-weight: 600; line-height: 1.4; }
 .sol-bar::-webkit-scrollbar { display: none; }
 
 .sol-bar-item {
-  flex: 0 0 auto;
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -568,7 +568,7 @@ h4 { font-size: 18px; font-weight: 600; line-height: 1.4; }
   border-bottom-color: var(--purple);
 }
 
-.sol-bar-item:first-child { padding-left: 0; }
+.sol-bar-item:first-child { padding-left: 28px; }
 
 /* -- Cards: photo LEFT, content RIGHT -- */
 .sol-card {
